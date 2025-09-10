@@ -10,7 +10,7 @@ author    = {Carolina Tavares, Leandro Mugnaini, Gustavo Henrique do Nascimento,
 Ian Pons, Keith Ogawa, Guilherme Stern, Lucas Libanio,
 Aline Paes, Anna Helena Reali Costa
 and Artur Jordao},
-title     = {Stage-Wise Neural Architecture Search},
+title     = {Tiny Titans: Efficient Large Vision, Language and Multimodal Models through Pruning},
 booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
 year = {2025},
 }
