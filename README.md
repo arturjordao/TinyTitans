@@ -2,7 +2,7 @@
 Official repository for the tutorial Tiny Titans: Efficient Large Vision, Language and Multimodal Models through Pruning, accepted for presentation at SIBGRAPI
 
 ## Basics of Pruning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dVbsMo8QEKNdGe51QbZ5mQvDT_fADDiU/view?usp=drive_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BQoOoLHjtVpTZV07ID9P3_oP2pxcQry-?usp=drive_link)
 
 ## Pruning Computer Vision Models
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kSKh0ES6R556maCN9douY9oOgGeZKRET?usp=drive_link)
