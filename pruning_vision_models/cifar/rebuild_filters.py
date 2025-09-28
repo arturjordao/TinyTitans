@@ -4,7 +4,7 @@ import copy
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
 from tensorflow.keras import backend as K
-import rebuild_layers as rl
+import cifar.rebuild_layers as rl
 
 isFiltersAvailable = True
 
