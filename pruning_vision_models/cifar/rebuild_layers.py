@@ -3,7 +3,7 @@ from sklearn.cross_decomposition import PLSRegression
 from sklearn.utils import gen_batches
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
-import cifar.template_architectures as template_architectures
+import cifar.template_architectures
 import copy
 import gc
 
@@ -196,7 +196,7 @@ def rebuild_network(model, scores, p_layer):
 
     if architecture_name.__contains__('ResNet'):
         filters_layers = filters_layerResNet
-        create_model = template_architectures.ResNet
+        create_model = cifar.template_architectures.ResNet
         transfer_weights = transfer_weightsResNet
         blocks = count_res_blocks(model)
         score_block = idx_score_block_ResNet(blocks, allowed_layers)
