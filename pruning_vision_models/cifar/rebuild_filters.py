@@ -4,7 +4,7 @@ import copy
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
 from tensorflow.keras import backend as K
-import rebuild_layers as rl#It implements some particular functions we need to use here
+import rebuild_layers as rl
 
 isFiltersAvailable = True
 
