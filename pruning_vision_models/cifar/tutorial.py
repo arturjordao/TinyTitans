@@ -5,7 +5,7 @@ import argparse
 
 import numpy as np 
 import tensorflow as tf
-import custom_callbacks
+#import custom_callbacks
 import custom_functions as func
 import rebuild_layers as rl
 import rebuild_filters as rf
