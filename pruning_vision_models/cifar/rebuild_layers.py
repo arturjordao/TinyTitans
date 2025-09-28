@@ -3,7 +3,7 @@ from sklearn.cross_decomposition import PLSRegression
 from sklearn.utils import gen_batches
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
-import cifar.template_architectures
+import cifar.template_architectures as template_architectures
 import copy
 import gc
 
