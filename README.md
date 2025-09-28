@@ -13,7 +13,7 @@ Official repository for the tutorial Tiny Titans: Efficient Large Vision, Langua
 ## Pruning Detection Model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aWzZG--K2kEc3rG_O67w_HW4VeD56c1l?usp=sharing)
 
-Please cite our paper in your publications if it helps your research.
+Please cite [our paper](https://github.com/arturjordao/TinyTitans/blob/main/slides-and-paper/Paper.pdf) in your publications if it helps your research.
 ```bash
 @inproceedings{Tavares:2025,
 author    = {Carolina Tavares, Leandro Mugnaini, Gustavo Henrique do Nascimento,
