@@ -10,6 +10,9 @@ Official repository for the tutorial Tiny Titans: Efficient Large Vision, Langua
 ## Pruning Large Language Models
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RZNORX942Oar530_isSsEdrk2ofwT-E1?usp=drive_link)
 
+## Pruning Detection Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aWzZG--K2kEc3rG_O67w_HW4VeD56c1l?usp=sharing)
+
 Please cite our paper in your publications if it helps your research.
 ```bash
 @inproceedings{Tavares:2025,
