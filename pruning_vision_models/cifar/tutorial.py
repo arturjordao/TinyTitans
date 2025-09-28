@@ -5,12 +5,12 @@ import argparse
 
 import numpy as np 
 import tensorflow as tf
-#import custom_callbacks
-import custom_functions as func
-import rebuild_layers as rl
-import rebuild_filters as rf
-import criteria_filter as cf
-import criteria_layer as cl
+import cifar.custom_callbacks
+import cifar.custom_functions as func
+import cifar.rebuild_layers as rl
+import cifar.rebuild_filters as rf
+import cifar.criteria_filter as cf
+import cifar.criteria_layer as cl
 
 from datetime import datetime
 
