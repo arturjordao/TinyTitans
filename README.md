@@ -1,5 +1,5 @@
 # TinyTitans
-Official repository for the tutorial Tiny Titans: Efficient Large Vision, Language and Multimodal Models through Pruning, accepted for presentation at SIBGRAPI
+Official repository for the tutorial Tiny Titans: Efficient Large Vision, Language and Multimodal Models through Pruning, presented at SIBGRAPI (Tutorial Track)
 
 ## Basics of Pruning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BQoOoLHjtVpTZV07ID9P3_oP2pxcQry-?usp=drive_link)
